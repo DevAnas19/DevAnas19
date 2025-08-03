@@ -29,4 +29,5 @@ Play Rock, Paper, Scissors against the computer.
 
 ---
 
-📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/your-username)**
+📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/anas-ansari)**
+
