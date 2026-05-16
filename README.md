@@ -23,8 +23,8 @@ I'm a passionate and self-driven Full Stack Web Developer focused on building re
 - Responsive Design
 
 ### ⚙️ Backend
-- Pyhton
-- Fast API
+- Python
+- FastAPI
 - Node.js
 - Express.js
 - REST APIs
@@ -49,38 +49,42 @@ I'm a passionate and self-driven Full Stack Web Developer focused on building re
 
 ## 🔥 Featured Projects
 
-### 🎮 Escape Realm – 2D Adventure Game with Full Backend
+# 🎮 Escape Realm – 2D Adventure Game with Full Backend
+
 A complete game project featuring user authentication, save progress functionality, and backend integration.
 
-#### ✨ Features
+### ✨ Features
 - User Registration & Login
 - JWT Authentication
 - Save Game Progress
 - Backend API Integration
 - Database Storage
 
-#### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 JavaScript, Node.js, Express.js, PostgreSQL, JWT, bcrypt
 
-🔗 Live Project: symphonious-gecko-dbe753.netlify.app
-📂 Repository: https://github.com/DevAnas19/EscapeRealm
+### 🔗 Links
+- 🌐 Live Demo: https://symphonious-gecko-dbe753.netlify.app
+- 📂 GitHub Repository: https://github.com/DevAnas19/EscapeRealm
 
 ---
 
-### 📊 Admin Dashboard Template
+# 📊 Admin Dashboard Template
+
 A professional admin panel developed during my internship with secure authentication and dashboard management.
 
-#### ✨ Features
+### ✨ Features
 - Admin Login System
 - Secure Authentication
 - Dashboard UI
 - CRUD Operations
 
-#### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL
 
-🔗 Live Project:admin-page-nu-six.vercel.app
-📂 Repository: https://github.com/DevAnas19/admintemp1
+### 🔗 Links
+- 🌐 Live Demo: https://admin-page-nu-six.vercel.app
+- 📂 GitHub Repository: https://github.com/DevAnas19/admintemp1
 
 ---
 
@@ -114,4 +118,5 @@ HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL
 > "Building projects is the fastest way to turn knowledge into real-world skills."
 
 ---
+
 ⭐ If you like my work, feel free to star my repositories and connect with me!
