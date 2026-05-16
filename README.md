@@ -23,6 +23,8 @@ I'm a passionate and self-driven Full Stack Web Developer focused on building re
 - Responsive Design
 
 ### ⚙️ Backend
+- Pyhton
+- Fast API
 - Node.js
 - Express.js
 - REST APIs
