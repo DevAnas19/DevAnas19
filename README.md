@@ -1,33 +1,115 @@
-### Hi there 👋
+# Hi there 👋, I'm Anas Ansari
 
-I'm Anas, an aspiring web developer building real-world projects with JavaScript and the MERN stack.
+## 🚀 Full Stack Web Developer | MERN Stack Enthusiast
 
-🔹 **Frontend:** HTML, CSS, JavaScript  
-🔹 **Currently Learning:** React.js, Node.js, MongoDB, Express.js  
-🔹 **Tools:** VS Code, Git, GitHub  
+I'm a passionate and self-driven Full Stack Web Developer focused on building real-world web applications using modern JavaScript technologies.
 
-## 🔥 Top Projects
-
-### 🕹️ [Tic Tac Toe Game](https://gleaming-travesseiro-5b6169.netlify.app/)
-Classic 2-player JavaScript game with win detection and reset option.
-- **Tech:** HTML, CSS, JavaScript
-- [GitHub Repo](https://github.com/DevAnas19/Tic-Tac-Toe)
+- 🌱 Currently mastering the MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 💻 Strong foundation in JavaScript, backend development, and REST APIs
+- 🔐 Experienced with Authentication, JWT, Password Hashing, Cookies, and Sessions
+- 🗄️ Comfortable working with MongoDB and PostgreSQL
+- ⚙️ Familiar with Git, GitHub, VS Code, and deployment platforms
+- 🎯 Goal: To become a professional Full Stack Developer and build scalable applications
 
 ---
 
-### 💱 [Currency Converter](https://heartfelt-mandazi-ec0dd7.netlify.app/)
-Responsive currency converter using live exchange rates.
-- **Tech:** HTML, CSS, JavaScript
-- [GitHub Repo](https://github.com/DevAnas19/Currency-Convertor)
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Responsive Design
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- bcrypt
+- Cookies & Sessions
+
+### 🗄️ Databases
+- MongoDB
+- PostgreSQL
+
+### 🧰 Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Render
+- Vercel
+- Netlify
+- Postman
 
 ---
 
-### ✊ [Rock Paper Scissors Game](https://golden-baklava-9314cb.netlify.app/)
-Play Rock, Paper, Scissors against the computer.
-- **Tech:** HTML, CSS, JavaScript
-- [GitHub Repo](https://github.com/DevAnas19/Rock-Pape-Scissors)
+## 🔥 Featured Projects
+
+### 🎮 Escape Realm – 2D Adventure Game with Full Backend
+A complete game project featuring user authentication, save progress functionality, and backend integration.
+
+#### ✨ Features
+- User Registration & Login
+- JWT Authentication
+- Save Game Progress
+- Backend API Integration
+- Database Storage
+
+#### 🛠️ Tech Stack
+JavaScript, Node.js, Express.js, PostgreSQL, JWT, bcrypt
+
+🔗 Live Project: symphonious-gecko-dbe753.netlify.app
+📂 Repository: https://github.com/DevAnas19/EscapeRealm
 
 ---
 
-📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/anas-ansari-66678b378)**
+### 📊 Admin Dashboard Template
+A professional admin panel developed during my internship with secure authentication and dashboard management.
 
+#### ✨ Features
+- Admin Login System
+- Secure Authentication
+- Dashboard UI
+- CRUD Operations
+
+#### 🛠️ Tech Stack
+HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL
+
+🔗 Live Project:admin-page-nu-six.vercel.app
+📂 Repository: https://github.com/DevAnas19/admintemp1
+
+---
+
+## 📚 Currently Learning
+- Advanced React.js
+- Redux Toolkit
+- Next.js
+- NestJS
+- Performance Optimization
+- System Design Basics
+
+---
+
+## 📈 GitHub Stats
+
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnas19&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnas19&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/anas-ansari-66678b378
+- 🐙 GitHub: https://github.com/DevAnas19
+
+---
+
+## ✨ Developer Motto
+
+> "Building projects is the fastest way to turn knowledge into real-world skills."
+
+---
+⭐ If you like my work, feel free to star my repositories and connect with me!
