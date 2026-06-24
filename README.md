@@ -89,6 +89,7 @@ HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL
 ---
 
 ## 📚 Currently Learning
+- AL/ML 
 - Advanced React.js
 - Redux Toolkit
 - Next.js
