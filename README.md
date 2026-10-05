@@ -97,55 +97,144 @@ const anas = {
 </div>
 
 <table align="center">
+
+  <!-- ForgeML -->
   <tr>
     <td align="center" valign="middle" width="45%">
       <a href="https://github.com/DevAnas19/Forge_ML">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=ForgeML&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12" alt="Forge_ML" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=Forge_ML&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12"
+          alt="Forge_ML"
+        />
       </a>
     </td>
     <td valign="middle" width="55%">
-      <h3>⚒️ ForgeML <img src="https://img.shields.io/badge/IN_PROGRESS-FF7A59?style=flat-square&labelColor=0d1117" alt="status" /></h3>
-      <sub>A full-stack ML experimentation platform — upload and profile datasets, track experiments, manage a model registry, serve predictions, explain models with <b>SHAP</b> and plan experiments with an LLM assistant.</sub>
+      <h3>
+        ⚒️ ForgeML
+        <img
+          src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=0d1117"
+          alt="live"
+        />
+      </h3>
+      <sub>
+        A full-stack ML experimentation and deployment platform — upload and
+        profile datasets, validate data, train and compare multiple models,
+        track experiments, manage a versioned model registry, serve predictions,
+        explain models with <b>SHAP</b>, and use an LLM assistant for experiment
+        planning and analysis.
+      </sub>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=fastapi,nextjs,ts,tailwind,postgres,docker&theme=dark" alt="stack" />
+      <img
+        src="https://skillicons.dev/icons?i=fastapi,nextjs,ts,tailwind,postgres,docker&theme=dark"
+        alt="ForgeML tech stack"
+      />
+      <br/><br/>
+      <a href="https://forge-ml-gamma.vercel.app">
+        <img
+          src="https://img.shields.io/badge/Live_Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0d1117"
+          alt="Live Demo"
+        />
+      </a>
+      <a href="https://github.com/DevAnas19/Forge_ML">
+        <img
+          src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white"
+          alt="Source Code"
+        />
+      </a>
+      <a href="https://forge-ml.onrender.com/docs">
+        <img
+          src="https://img.shields.io/badge/API_Docs-FF7A59?style=for-the-badge&logo=fastapi&logoColor=0d1117"
+          alt="API Docs"
+        />
+      </a>
     </td>
   </tr>
+  <!-- Dossier -->
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/DevAnas19/Dossier">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=Dossier&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12" alt="Dossier" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=Dossier&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12"
+          alt="Dossier"
+        />
       </a>
     </td>
     <td valign="middle">
-      <h3>🕵️ Dossier <img src="https://img.shields.io/badge/MULTI--AGENT-2DD4BF?style=flat-square&labelColor=0d1117" alt="type" /></h3>
-      <sub>A multi-agent research pipeline: a <b>search agent</b> finds sources, a <b>reader</b> scrapes them, a <b>writer</b> drafts the report and a <b>critic</b> reviews it. Powered by LangChain / LangGraph, Tavily and Groq-hosted LLMs, with a FastAPI + React interface.</sub>
+      <h3>
+        🕵️ Dossier
+        <img
+          src="https://img.shields.io/badge/MULTI--AGENT-2DD4BF?style=flat-square&labelColor=0d1117"
+          alt="type"
+        />
+      </h3>
+      <sub>
+        A multi-agent research pipeline: a <b>search agent</b> finds sources,
+        a <b>reader</b> scrapes them, a <b>writer</b> drafts the report and a
+        <b>critic</b> reviews it. Powered by LangChain / LangGraph, Tavily and
+        Groq-hosted LLMs, with a FastAPI + React interface.
+      </sub>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,fastapi,react&theme=dark" alt="stack" />
+      <img
+        src="https://skillicons.dev/icons?i=py,fastapi,react&theme=dark"
+        alt="Dossier tech stack"
+      />
     </td>
   </tr>
+
+  <!-- Escape Realm -->
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/DevAnas19/EscapeRealm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=EscapeRealm&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12" alt="Escape Realm" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=EscapeRealm&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12"
+          alt="Escape Realm"
+        />
       </a>
     </td>
     <td valign="middle">
-      <h3>🎮 Escape Realm <img src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=0d1117" alt="live" /></h3>
-      <sub>A 2D adventure game with a complete backend — register, log in with <b>JWT</b>, and save your progress to <b>PostgreSQL</b>.</sub>
+      <h3>
+        🎮 Escape Realm
+        <img
+          src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=0d1117"
+          alt="live"
+        />
+      </h3>
+      <sub>
+        A 2D adventure game with a complete backend — register, log in with
+        <b>JWT</b>, and save your progress to <b>PostgreSQL</b>.
+      </sub>
       <br/><br/>
-      <a href="https://symphonious-gecko-dbe753.netlify.app"><img src="https://img.shields.io/badge/Play_Now-2DD4BF?style=for-the-badge&logo=netlify&logoColor=0d1117" alt="demo" /></a>
-      <a href="https://github.com/DevAnas19/EscapeRealm"><img src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
+      <a href="https://symphonious-gecko-dbe753.netlify.app">
+        <img
+          src="https://img.shields.io/badge/Play_Now-2DD4BF?style=for-the-badge&logo=netlify&logoColor=0d1117"
+          alt="Play Now"
+        />
+      </a>
+      <a href="https://github.com/DevAnas19/EscapeRealm">
+        <img
+          src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white"
+          alt="Source"
+        />
+      </a>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres&theme=dark" alt="stack" />
+      <img
+        src="https://skillicons.dev/icons?i=js,nodejs,express,postgres&theme=dark"
+        alt="Escape Realm tech stack"
+      />
     </td>
   </tr>
+
 </table>
 
 <div align="center">
-  <sub>Also built: <a href="https://admin-page-nu-six.vercel.app">Admin Dashboard Template</a> · <a href="https://github.com/DevAnas19/admintemp1">source</a></sub>
+  <sub>
+    Also built:
+    <a href="https://admin-page-nu-six.vercel.app">Admin Dashboard Template</a>
+    ·
+    <a href="https://github.com/DevAnas19/admintemp1">source</a>
+  </sub>
 </div>
-
-<br/>
+```
 
 <!-- ═══════════════ JOURNEY ═══════════════ -->
 <div align="center">
