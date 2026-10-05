@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A59,100:2DD4BF&height=240&section=header&text=Anas%20Ansari&fontSize=60&fontColor=0d1117&fontAlignY=38&animation=twinkling&desc=AI%2FML%20Intern%20%C2%B7%20Full%20Stack%20Developer&descSize=19&descAlignY=60&descColor=0d1117" width="100%" alt="header" />
+<img src="./assests/header.svg" width="100%" alt="header" />
 
 <a href="https://github.com/DevAnas19">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=760&height=55&lines=%24+whoami+%E2%86%92+Anas+Ansari;AI%2FML+Intern+%E2%80%94+shipping+LLM+%2B+ML+systems;Ex+Full+Stack+Developer+%E2%80%94+MERN+%2B+PostgreSQL;Building+ForgeML+%C2%B7+Dossier+%C2%B7+Escape+Realm;Projects+first.+Tutorials+second." alt="Typing intro" />
@@ -102,19 +102,13 @@ const anas = {
   <tr>
     <td align="center" valign="middle" width="45%">
       <a href="https://github.com/DevAnas19/Forge_ML">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=Forge_ML&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12"
-          alt="Forge_ML"
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=Forge_ML&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12" alt="Forge_ML" />
       </a>
     </td>
     <td valign="middle" width="55%">
       <h3>
         ⚒️ ForgeML
-        <img
-          src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=0d1117"
-          alt="live"
-        />
+        <img src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=0d1117" alt="live" />
       </h3>
       <sub>
         A full-stack ML experimentation and deployment platform — upload and
@@ -124,48 +118,25 @@ const anas = {
         planning and analysis.
       </sub>
       <br/><br/>
-      <img
-        src="https://skillicons.dev/icons?i=fastapi,nextjs,ts,tailwind,postgres,docker&theme=dark"
-        alt="ForgeML tech stack"
-      />
+      <img src="https://skillicons.dev/icons?i=fastapi,nextjs,ts,tailwind,postgres,docker&theme=dark" alt="ForgeML tech stack" />
       <br/><br/>
-      <a href="https://forge-ml-gamma.vercel.app">
-        <img
-          src="https://img.shields.io/badge/Live_Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0d1117"
-          alt="Live Demo"
-        />
-      </a>
-      <a href="https://github.com/DevAnas19/Forge_ML">
-        <img
-          src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white"
-          alt="Source Code"
-        />
-      </a>
-      <a href="https://forge-ml.onrender.com/docs">
-        <img
-          src="https://img.shields.io/badge/API_Docs-FF7A59?style=for-the-badge&logo=fastapi&logoColor=0d1117"
-          alt="API Docs"
-        />
-      </a>
+      <a href="https://forge-ml-gamma.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2DD4BF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live Demo" /></a>
+      <a href="https://github.com/DevAnas19/Forge_ML"><img src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+      <a href="https://forge-ml.onrender.com/docs"><img src="https://img.shields.io/badge/API_Docs-FF7A59?style=for-the-badge&logo=fastapi&logoColor=0d1117" alt="API Docs" /></a>
     </td>
   </tr>
+
   <!-- Dossier -->
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/DevAnas19/Dossier">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=Dossier&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12"
-          alt="Dossier"
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=Dossier&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12" alt="Dossier" />
       </a>
     </td>
     <td valign="middle">
       <h3>
         🕵️ Dossier
-        <img
-          src="https://img.shields.io/badge/MULTI--AGENT-2DD4BF?style=flat-square&labelColor=0d1117"
-          alt="type"
-        />
+        <img src="https://img.shields.io/badge/MULTI--AGENT-2DD4BF?style=flat-square&labelColor=0d1117" alt="type" />
       </h3>
       <sub>
         A multi-agent research pipeline: a <b>search agent</b> finds sources,
@@ -174,10 +145,7 @@ const anas = {
         Groq-hosted LLMs, with a FastAPI + React interface.
       </sub>
       <br/><br/>
-      <img
-        src="https://skillicons.dev/icons?i=py,fastapi,react&theme=dark"
-        alt="Dossier tech stack"
-      />
+      <img src="https://skillicons.dev/icons?i=py,fastapi,react&theme=dark" alt="Dossier tech stack" />
     </td>
   </tr>
 
@@ -185,42 +153,23 @@ const anas = {
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/DevAnas19/EscapeRealm">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=EscapeRealm&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12"
-          alt="Escape Realm"
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAnas19&repo=EscapeRealm&bg_color=0d1117&title_color=FF7A59&text_color=9ca3af&icon_color=2DD4BF&border_color=30363d&border_radius=12" alt="Escape Realm" />
       </a>
     </td>
     <td valign="middle">
       <h3>
         🎮 Escape Realm
-        <img
-          src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=0d1117"
-          alt="live"
-        />
+        <img src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=0d1117" alt="live" />
       </h3>
       <sub>
         A 2D adventure game with a complete backend — register, log in with
         <b>JWT</b>, and save your progress to <b>PostgreSQL</b>.
       </sub>
       <br/><br/>
-      <a href="https://symphonious-gecko-dbe753.netlify.app">
-        <img
-          src="https://img.shields.io/badge/Play_Now-2DD4BF?style=for-the-badge&logo=netlify&logoColor=0d1117"
-          alt="Play Now"
-        />
-      </a>
-      <a href="https://github.com/DevAnas19/EscapeRealm">
-        <img
-          src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white"
-          alt="Source"
-        />
-      </a>
+      <a href="https://symphonious-gecko-dbe753.netlify.app"><img src="https://img.shields.io/badge/Play_Now-2DD4BF?style=for-the-badge&logo=netlify&logoColor=0d1117" alt="Play Now" /></a>
+      <a href="https://github.com/DevAnas19/EscapeRealm"><img src="https://img.shields.io/badge/Source-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
       <br/><br/>
-      <img
-        src="https://skillicons.dev/icons?i=js,nodejs,express,postgres&theme=dark"
-        alt="Escape Realm tech stack"
-      />
+      <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres&theme=dark" alt="Escape Realm tech stack" />
     </td>
   </tr>
 
@@ -234,7 +183,8 @@ const anas = {
     <a href="https://github.com/DevAnas19/admintemp1">source</a>
   </sub>
 </div>
-```
+
+<br/>
 
 <!-- ═══════════════ JOURNEY ═══════════════ -->
 <div align="center">
@@ -275,22 +225,14 @@ graph LR
 <br/><br/>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DevAnas19/DevAnas19/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DevAnas19/DevAnas19/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/DevAnas19/DevAnas19/output/github-contribution-grid-snake.svg"
-    width="95%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevAnas19/DevAnas19/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevAnas19/DevAnas19/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevAnas19/DevAnas19/output/github-contribution-grid-snake.svg" width="95%" />
 </picture>
 
 </div>
+
+<br/>
 
 <!-- ═══════════════ CLOSING ═══════════════ -->
 <div align="center">
@@ -305,4 +247,4 @@ graph LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:FF7A59&height=150&section=footer&reversal=true&text=Thanks%20for%20visiting&fontSize=26&fontColor=0d1117&fontAlignY=65&animation=fadeIn" width="100%" alt="footer" />
+<img src="./assests/footer.svg" width="100%" alt="footer" />
