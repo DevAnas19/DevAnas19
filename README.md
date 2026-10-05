@@ -274,15 +274,23 @@ graph LR
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAnas19&bg_color=0d1117&color=FF7A59&line=2DD4BF&point=ffffff&area=true&area_color=2DD4BF&hide_border=true&custom_title=Contribution%20Pulse" width="95%" alt="activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=DevAnas19&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="trophies" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DevAnas19/DevAnas19/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DevAnas19/DevAnas19/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/DevAnas19/DevAnas19/output/github-contribution-grid-snake.svg"
+    width="95%"
+  />
+</picture>
 
 </div>
-
-<br/>
 
 <!-- ═══════════════ CLOSING ═══════════════ -->
 <div align="center">
