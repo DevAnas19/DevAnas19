@@ -4,7 +4,7 @@
 <img src="./assests/header.svg" width="100%" alt="header" />
 
 <a href="https://github.com/DevAnas19">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=760&height=55&lines=%24+whoami+%E2%86%92+Anas+Ansari;AI%2FML+Intern+%E2%80%94+shipping+LLM+%2B+ML+systems;Ex+Full+Stack+Developer+%E2%80%94+MERN+%2B+PostgreSQL;Building+ForgeML+%C2%B7+Dossier+%C2%B7+Escape+Realm;Projects+first.+Tutorials+second." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=760&height=55&lines=%24+whoami+%E2%86%92+Anas+Ansari;AI%2FML+Developer+%E2%80%94+LLM+%2B+ML+systems;Completed+AI%2FML+Internship+%40+IRINFOTECH;Ex+Full+Stack+Developer+%E2%80%94+MERN+%2B+PostgreSQL;Building+ForgeML+%C2%B7+Dossier+%C2%B7+Escape+Realm;Open+to+AI%2FML+Engineer+roles;Projects+first.+Tutorials+second." alt="Typing intro" />
 </a>
 
 <br/>
@@ -30,7 +30,8 @@
 
 ```js
 const anas = {
-  now:        "AI/ML Intern",
+  role:       "AI/ML Developer · B.Tech CSE (AI/ML)",
+  internship: "AI/ML Intern @ IRINFOTECH (Jul–Oct 2026) ✔ completed",
   before:     "Full Stack Developer",
   roots:      ["MongoDB", "Express", "React", "Node.js"],
   alsoWrites: ["Python", "FastAPI", "PostgreSQL"],
@@ -38,7 +39,7 @@ const anas = {
   exploring:  ["LLM agents", "ML pipelines", "Explainable AI"],
   mission:    "Build scalable products that real people actually use",
   philosophy: "Projects first. Tutorials second.",
-  status:     "🟢 building something right now",
+  status:     "🟢 open to AI/ML roles · building something right now",
 };
 ```
 
@@ -50,10 +51,11 @@ const anas = {
 <table align="center">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://img.shields.io/badge/%F0%9F%9F%A2_NOW-AI%2FML_Intern-FF7A59?style=for-the-badge&labelColor=0d1117" alt="now" />
+      <img src="https://img.shields.io/badge/%E2%9C%85_COMPLETED-AI%2FML_Intern-FF7A59?style=for-the-badge&labelColor=0d1117" alt="completed" />
       <br/><br/>
-      <b>AI / ML Intern</b><br/>
-      <sub>Building LLM-powered APIs and ML systems with Python, FastAPI, RAG and function-calling pipelines.</sub>
+      <b>AI / ML Intern · IRINFOTECH</b><br/>
+      <sub>Jul – Oct 2026</sub><br/>
+      <sub>Built the Knowledge &amp; Content Engine (E-1) and the Learning &amp; Instruction Engine (E-3) for a 9-engine AI platform, working with Python, FastAPI, RAG and function-calling pipelines.</sub>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker&theme=dark" alt="stack" />
     </td>
@@ -195,9 +197,9 @@ const anas = {
 %%{init: {'theme':'dark','themeVariables':{'fontFamily':'monospace'}}}%%
 graph LR
     A["🌱 Web Foundations<br/>HTML · CSS · JS"]:::done --> B["⚙️ Full Stack Dev<br/>MERN · REST · Auth"]:::done
-    B --> C["🧠 AI/ML Intern<br/>Python · FastAPI · LLMs"]:::now
+    B --> C["🧠 AI/ML Intern ✔<br/>Python · FastAPI · LLMs"]:::done
     C --> D["🚀 Top Projects<br/>ForgeML · Dossier"]:::now
-    D --> E["🏗️ Scale<br/>System Design · Next.js · NestJS"]:::next
+    D --> E["🏗️ AI/ML Engineer<br/>System Design · Next.js · NestJS"]:::next
 
     classDef done fill:#0f766e,stroke:#2DD4BF,color:#fff,stroke-width:2px;
     classDef now fill:#c2410c,stroke:#FF7A59,color:#fff,stroke-width:3px;
